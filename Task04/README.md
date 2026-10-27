@@ -1,0 +1,1 @@
+Use macros safely
