@@ -1,1 +1,0 @@
-Smart-meter redesign challenge
